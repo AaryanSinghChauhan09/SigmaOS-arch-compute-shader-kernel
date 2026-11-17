@@ -3,7 +3,7 @@ name = "SigmaOS-arch-compute-shader-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-compute-shader-kernel component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
